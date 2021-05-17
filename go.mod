@@ -8,7 +8,7 @@ require (
 	github.com/alecthomas/chroma v0.8.2
 	github.com/alecthomas/repr v0.0.0-20181024024818-d37bc2a10ba1 // indirect
 	github.com/armon/go-radix v1.0.0
-	github.com/aws/aws-sdk-go v1.37.11
+	github.com/aws/aws-sdk-go v1.38.35
 	github.com/bep/debounce v1.2.0
 	github.com/bep/gitmap v1.1.2
 	github.com/bep/godartsass v0.12.0
@@ -27,7 +27,7 @@ require (
 	github.com/gobuffalo/flect v0.2.2
 	github.com/gobwas/glob v0.2.3
 	github.com/gohugoio/testmodBuilder/mods v0.0.0-20190520184928-c56af20f2e95
-	github.com/google/go-cmp v0.5.4
+	github.com/google/go-cmp v0.5.5
 	github.com/gorilla/websocket v1.4.2
 	github.com/jdkato/prose v1.2.0
 	github.com/kylelemons/godebug v1.1.0
@@ -36,7 +36,7 @@ require (
 	github.com/mattn/go-isatty v0.0.12
 	github.com/miekg/mmark v1.3.6
 	github.com/mitchellh/hashstructure v1.0.0
-	github.com/mitchellh/mapstructure v1.3.3
+	github.com/mitchellh/mapstructure v1.4.1
 	github.com/muesli/smartcrop v0.3.0
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
 	github.com/nicksnyder/go-i18n/v2 v2.1.1
@@ -58,13 +58,12 @@ require (
 	github.com/tdewolff/minify/v2 v2.9.13
 	github.com/yuin/goldmark v1.3.2
 	github.com/yuin/goldmark-highlighting v0.0.0-20200307114337-60d527fdb691
-	gocloud.dev v0.20.0
+	gocloud.dev v0.23.0
 	golang.org/x/image v0.0.0-20191214001246-9130b4cfad52
-	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
-	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/text v0.3.4
-	google.golang.org/api v0.40.0
-	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
+	golang.org/x/net v0.0.0-20210505214959-0714010a04ed
+	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/text v0.3.6
+	google.golang.org/api v0.46.0
 	gopkg.in/ini.v1 v1.51.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 )
