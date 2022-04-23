@@ -12,7 +12,7 @@ require (
 	github.com/bep/godartsass v0.14.0
 	github.com/bep/golibsass v1.0.0
 	github.com/bep/gowebp v0.1.0
-	github.com/bep/overlayfs v0.5.0
+	github.com/bep/overlayfs v0.6.0
 	github.com/bep/tmc v0.5.1
 	github.com/clbanning/mxj/v2 v2.5.5
 	github.com/cli/safeexec v1.0.0
@@ -21,7 +21,7 @@ require (
 	github.com/evanw/esbuild v0.14.36
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/frankban/quicktest v1.14.3
-	github.com/fsnotify/fsnotify v1.5.1
+	github.com/fsnotify/fsnotify v1.5.3
 	github.com/getkin/kin-openapi v0.94.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/gobuffalo/flect v0.2.5
